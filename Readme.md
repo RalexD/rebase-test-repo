@@ -1,1 +1,3 @@
-Test Java project with git rebase
+Test Java project with rebase
+Git test so fun!
+
